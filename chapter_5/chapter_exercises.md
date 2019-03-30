@@ -58,3 +58,9 @@ a aToC a = a
 
 a :: (a -> b) -> a -> b
 a aToB a = aToB a
+
+## Type Kwon-Do
+
+1) h i = g $ f i
+2) e a = w $ q a
+3) xForm (x, y) = (xz x, yz y)
