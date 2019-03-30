@@ -64,3 +64,4 @@ a aToB a = aToB a
 1) h i = g $ f i
 2) e a = w $ q a
 3) xForm (x, y) = (xz x, yz y)
+4) munge xToY yToTwz x = fst $ yToTwz $ xToY x
